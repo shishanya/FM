@@ -1,7 +1,8 @@
 """
 代码仅供自己学习，无任何其他目的。
 issue : 损失函数为nan，predict也为nan，可能是数据问题
-下次对数据标准化，或者换个数据集试试
+
+solution : 下次对数据标准化，或者换个数据集试试
 """
 
 from trainer import Train
